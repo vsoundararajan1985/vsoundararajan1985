@@ -8,4 +8,3 @@
 vsoundararajan1985/vsoundararajan1985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Calendar_2022](https://user-images.githubusercontent.com/60463575/168047361-64f0d10d-5251-408b-9f94-d1b35848f9e8.PNG)
